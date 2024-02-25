@@ -8,4 +8,5 @@
   <artifactId>ifraestructuradomain</artifactId>
   <name>ifraestructuradomain</name>
   <description>Infraestrcutura project</description>
+  <packaging>pom</packaging>
 </project>

@@ -8,4 +8,8 @@
   <artifactId>businessdomain</artifactId>
   <name>businessdomain</name>
   <description>Business Domain Project</description>
+  <packaging>pom</packaging>
+  <modules>
+  	<module>customer</module>
+  </modules>
 </project>
